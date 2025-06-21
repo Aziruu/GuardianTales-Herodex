@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Future Princess",
+    "class": "Tank",
+    "element": "Light",
+    "image_url": "https://static.wikia.nocookie.net/guardian-tales/images/0/02/Illustration_Future_Princess.jpg",
+    "description": "The Princess of Kanterbury from a grim future. She fights to change her desolate timeline."
+  },
+  {
+    "id": 2,
+    "name": "Lapice",
+    "class": "Warrior",
+    "element": "Basic",
+    "image_url": "https://static.wikia.nocookie.net/guardian-tales/images/3/32/Illustration_Knight_Lady_Lapice.jpg",
+    "description": "A girl who has been protecting the Champion Sword, waiting for its rightful owner."
+  },
+  {
+    "id": 3,
+    "name": "Marina",
+    "class": "Tank",
+    "element": "Water",
+    "image_url": "https://static.wikia.nocookie.net/guardian-tales/images/0/0f/Illustration_Grand_Admiral_Marina.jpg",
+    "description": "Admiral of the Navy of Kanterbury and the master of a red shark."
+  }
+]
